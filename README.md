@@ -11,14 +11,13 @@
   
 Additional resources: https://www.youtube.com/watch?v=Pl4Hp8qwwes
   
-  
   ![image](https://user-images.githubusercontent.com/100187338/171067437-8399c527-0f4c-4066-acdc-acb70612c54f.png)
   
  ## Try/Except block
   
-   <sub>
- This particular coding is used to handle errors within our python code. The try block executes when there are no errors. If an error is found, the exception sends out and error message. This can be a custom error message. I added a try/except block that gives an error message if the incorrect type is entered
-     <sub>
+ 
+This particular coding is used to handle errors within our python code. The try block executes when there are no errors. If an error is found, the exception sends   out and error message. This can be a custom error message. I added a try/except block that gives an error message if the incorrect type is entered.
+ 
   
 Additional resources: Python Tutorial: Using Try/Except Blocks for Error Handling - YouTube
        
@@ -30,7 +29,3 @@ Additional resources: Python Tutorial: Using Try/Except Blocks for Error Handlin
      ![image] (https://user-images.githubusercontent.com/100187338/171067645-716ddad1-bb52-42b7-b501-a5edef7f7d04.png)
 
 
-
----
-[Google Homepage](https://www.google.com "Google's Homepage")
-[GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
